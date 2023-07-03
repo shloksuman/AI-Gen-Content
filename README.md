@@ -6,7 +6,7 @@
 
 > A fully functional and aesthetically pleasing webpage powered by AI tools like Stable Diffusion XL and MS Designer.
 
-[webpage-screenshot.png](https://postimg.cc/DSk5zDFM)
+![webpage screenshot](https://i.postimg.cc/rwzHfXHM/webpage-screenshot.png)
 
 
 This webpage showcases a collection of images, videos, and more, created entirely using AI tools. The design incorporates a beautiful navbar, header, landing page, and image cards. It features smooth scrolling, animations, and transitions to provide a visually appealing user experience.
