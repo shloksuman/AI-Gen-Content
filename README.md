@@ -6,7 +6,7 @@
 
 > A fully functional and aesthetically pleasing webpage powered by AI tools like Stable Diffusion XL and MS Designer.
 
-![webpage_screenshot](https://github.com/shloksuman/AI-Gen-Content/assets/77777064/95369bfd-8de0-4cc6-809a-dd90db43f845)
+[webpage-screenshot.png](https://postimg.cc/DSk5zDFM)
 
 
 This webpage showcases a collection of images, videos, and more, created entirely using AI tools. The design incorporates a beautiful navbar, header, landing page, and image cards. It features smooth scrolling, animations, and transitions to provide a visually appealing user experience.
